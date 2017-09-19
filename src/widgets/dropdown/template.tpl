@@ -3,7 +3,7 @@
   <% if (flags.canCollapse) { %>
     <li class="CDB-Dropdown-item">
       <button class="CDB-Dropdown-link js-toggleCollapsed">
-        Toggle widget
+        小部件开关
           <div class="CDB-Dropdown-toggle">
           <% if (collapsed) { %>
             <input class="CDB-Toggle js-inputCollapsed" checked="checked" type="checkbox" name="collapsed">
@@ -19,7 +19,7 @@
   <% if (flags.localTimezone) { %>
   <li class="CDB-Dropdown-item">
     <button class="CDB-Dropdown-link js-toggleLocalTimezone">
-      Local Time Zone
+      本地时区
       <div class="CDB-Dropdown-toggle">
         <% if (local_timezone) { %>
           <input class="CDB-Toggle u-iBlock js-localTimezone" checked="checked" type="checkbox" name="localtimezone">
@@ -35,7 +35,7 @@
   <% if (flags.normalizeHistogram) { %>
   <li class="CDB-Dropdown-item">
     <button class="CDB-Dropdown-link js-toggleNormalized">
-      Show totals
+      显示统计
       <div class="CDB-Dropdown-toggle">
         <% if (normalized) { %>
           <input class="CDB-Toggle u-iBlock js-inputNormalized" type="checkbox" name="normalized">
@@ -50,10 +50,10 @@
 
   <% if (show_options) { %>
     <li class="CDB-Dropdown-item">
-      <button type="button" class="CDB-Dropdown-link u-ellipsis u-actionTextColor js-editWidget" title="Edit">Edit</button>
+      <button type="button" class="CDB-Dropdown-link u-ellipsis u-actionTextColor js-editWidget" title="Edit">编辑</button>
     </li>
     <li class="CDB-Dropdown-item">
-      <button type="button" class="CDB-Dropdown-link u-ellipsis u-errorTextColor js-removeWidget" title="Delete...">Delete...</button>
+      <button type="button" class="CDB-Dropdown-link u-ellipsis u-errorTextColor js-removeWidget" title="Delete...">删除...</button>
     </li>
   <% } %>
 </ul>
