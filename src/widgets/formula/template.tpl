@@ -23,7 +23,7 @@
   <% } %>
   <% if (showStats) { %>
     <dl class="CDB-Widget-info CDB-Text CDB-Size-small u-secondaryTextColor u-upperCase u-tSpace">
-      <dt class="CDB-Widget-infoCount"><%- nulls %></dt><dd class="CDB-Widget-infoDescription">null rows</dd>
+      <dt class="CDB-Widget-infoCount"><%- nulls %></dt><dd class="CDB-Widget-infoDescription">空行</dd>
     </dl>
   <% } %>
 </div>
