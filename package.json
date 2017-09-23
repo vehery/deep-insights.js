@@ -8,20 +8,10 @@
   },
   "author": {
     "name": "CARTO",
-    "url": "http://carto.com/",
-    "email": "wadus@carto.com"
+    "url": "http://onenetcom.cn/",
+    "email": ""
   },
   "contributors": [
-    "Javier Álvarez <jmedina@cartodb.com>",
-    "Javier Arce <javierarce@cartodb.com>",
-    "Javier Santana <jsantana@cartodb.com>",
-    "Raul Ochoa <rochoa@cartodb.com>",
-    "Nicklas Gummesson <nicklas@cartodb.com>",
-    "Pablo Alonso <pablo@cartodb.com>",
-    "Antonio Santiago Pérez <asantiago@cartodb.com>",
-    "Ivan Malagon <ivan@carto.com>",
-    "Ruben Moya <ruben@carto.com>",
-    "Carlos Matallín <matallo@carto.com>"
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
