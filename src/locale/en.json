@@ -1,39 +1,39 @@
 {
   "analyses": {
     "unknown": "Unknown",
-    "source": "Source",
+    "source": "数据源",
     "connect-with-lines": {
-      "short-title": "Connect with lines"
+      "short-title": "连接线"
     },
     "georeference": {
-      "short-title": "Georeference"
+      "short-title": "地理化"
     },
     "data-observatory-measure": {
-      "short-title": "Data observatory"
+      "short-title": "数据变化"
     },
     "merge": {
-      "short-title": "Join columns"
+      "short-title": "连接列"
     },
     "filter-by-node-column": {
-      "short-title": "Filter by layer"
+      "short-title": "过滤层"
     },
     "centroid": {
-      "short-title": "Centroid"
+      "short-title": "中心"
     },
     "group-points": {
-      "short-title": "Group points"
+      "short-title": "分组"
     },
     "convex-hull": {
-      "short-title": "Convex Hull"
+      "short-title": "凸包"
     },
     "concave-hull": {
-      "short-title": "Concave Hull"
+      "short-title": "凹包"
     },
     "bounding-box": {
-      "short-title": "Bounding Box"
+      "short-title": "边界框"
     },
     "bounding-circle": {
-      "short-title": "Bounding Circle"
+      "short-title": "边界圈"
     },
     "area-of-influence": {
       "short-title": "AOI"
@@ -42,22 +42,22 @@
       "short-title": "Filter points in polygons"
     },
     "aggregate-intersection": {
-      "short-title": "Aggregate intersection"
+      "short-title": "交集"
     },
     "filter": {
-      "short-title": "Filter"
+      "short-title": "过滤"
     },
     "sampling": {
-      "short-title": "Sampling"
+      "short-title": "采样"
     },
     "kmeans": {
-      "short-title": "Clusters"
+      "short-title": "集群"
     },
     "moran-cluster": {
       "short-title": "Outliers & clusters"
     },
     "spatial-markov-trend": {
-      "short-title": "Trends"
+      "short-title": "趋势"
     },
     "routing": {
       "short-title": "Routing"
@@ -66,7 +66,7 @@
       "short-title": "SQL Function"
     },
     "find-nearest": {
-      "short-title": "Find nearest"
+      "short-title": "最近的"
     }
   }
 }
