@@ -17,7 +17,7 @@
   </p>
   <% if (canSelectAll) { %>
     <div class="CDB-Widget-filterButtons">
-      <button class="CDB-Text CDB-Size-small u-upperCase u-actionTextColor CDB-Widget-link CDB-Widget-filterButton js-all">all</button>
+      <button class="CDB-Text CDB-Size-small u-upperCase u-actionTextColor CDB-Widget-link CDB-Widget-filterButton js-all">全部</button>
     </div>
   <% } %>
 <% } %>
