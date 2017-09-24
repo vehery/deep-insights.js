@@ -8,7 +8,7 @@
       <% if (noneSelected) { %>
         None selected
       <% } else { %>
-        <%- allSelected ? "All selected" : acceptedCats + " selected" %>
+        <%- allSelected ? "全选" : acceptedCats + " 选择" %>
         <% if (canBeLocked) { %>
           <button class="CDB-Text CDB-Size-small u-upperCase u-actionTextColor CDB-Widget-link u-lSpace js-lock">lock</button>
         <% }%>
